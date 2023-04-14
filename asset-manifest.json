@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week_3_react/static/css/main.c8a26bd2.css",
+    "main.js": "/week_3_react/static/js/main.27955edc.js",
+    "index.html": "/week_3_react/index.html",
+    "main.c8a26bd2.css.map": "/week_3_react/static/css/main.c8a26bd2.css.map",
+    "main.27955edc.js.map": "/week_3_react/static/js/main.27955edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a26bd2.css",
+    "static/js/main.27955edc.js"
+  ]
+}
